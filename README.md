@@ -6,7 +6,7 @@ Sistem cerdas berbasis *Multi-Way Matching* dan AI Document Intelligence untuk m
 ![Backend](https://img.shields.io/badge/API-Railway-purple?style=for-the-badge)
 
 ## 🚀 Live Demo
-Aplikasi dapat diakses secara publik melalui: **[MASUKKAN_LINK_VERCEL_ANDA_DI_SINI]**
+Aplikasi dapat diakses secara publik melalui: **https://pharma-verify-ai.vercel.app/**
 
 ## 🧪 Panduan Pengujian Juri (Testing Scenarios)
 
