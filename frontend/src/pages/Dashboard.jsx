@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = import.meta.env.VITE_API_URL || "https://pharma-verify-ai-production.up.railway.app/api";
 
 function Dashboard() {
   const [pos, setPos] = useState([]);
